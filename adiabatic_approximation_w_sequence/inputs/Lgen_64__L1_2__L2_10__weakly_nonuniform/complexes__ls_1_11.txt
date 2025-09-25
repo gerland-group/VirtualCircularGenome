@@ -1,0 +1,527 @@
+N=1
+3'. 5'
+5'G 3'
+
+N=1
+3'. 5'
+5'A 3'
+
+N=1
+3'. 5'
+5'T 3'
+
+N=1
+3'. 5'
+5'C 3'
+
+N=1
+3'........... 5'
+5'GGGATTCCAGT 3'
+
+N=1
+3'........... 5'
+5'GGATTCCAGTT 3'
+
+N=1
+3'........... 5'
+5'GATTCCAGTTA 3'
+
+N=1
+3'........... 5'
+5'ATTCCAGTTAC 3'
+
+N=1
+3'........... 5'
+5'TTCCAGTTACT 3'
+
+N=1
+3'........... 5'
+5'TCCAGTTACTC 3'
+
+N=1
+3'........... 5'
+5'CCAGTTACTCC 3'
+
+N=1
+3'........... 5'
+5'CAGTTACTCCT 3'
+
+N=1
+3'........... 5'
+5'AGTTACTCCTT 3'
+
+N=1
+3'........... 5'
+5'GTTACTCCTTC 3'
+
+N=1
+3'........... 5'
+5'TTACTCCTTCG 3'
+
+N=1
+3'........... 5'
+5'TACTCCTTCGT 3'
+
+N=1
+3'........... 5'
+5'ACTCCTTCGTG 3'
+
+N=1
+3'........... 5'
+5'CTCCTTCGTGT 3'
+
+N=1
+3'........... 5'
+5'TCCTTCGTGTC 3'
+
+N=1
+3'........... 5'
+5'CCTTCGTGTCT 3'
+
+N=1
+3'........... 5'
+5'CTTCGTGTCTA 3'
+
+N=1
+3'........... 5'
+5'TTCGTGTCTAT 3'
+
+N=1
+3'........... 5'
+5'TCGTGTCTATC 3'
+
+N=1
+3'........... 5'
+5'CGTGTCTATCG 3'
+
+N=1
+3'........... 5'
+5'GTGTCTATCGC 3'
+
+N=1
+3'........... 5'
+5'TGTCTATCGCC 3'
+
+N=1
+3'........... 5'
+5'GTCTATCGCCC 3'
+
+N=1
+3'........... 5'
+5'TCTATCGCCCA 3'
+
+N=1
+3'........... 5'
+5'CTATCGCCCAA 3'
+
+N=1
+3'........... 5'
+5'TATCGCCCAAG 3'
+
+N=1
+3'........... 5'
+5'ATCGCCCAAGC 3'
+
+N=1
+3'........... 5'
+5'TCGCCCAAGCA 3'
+
+N=1
+3'........... 5'
+5'CGCCCAAGCAG 3'
+
+N=1
+3'........... 5'
+5'GCCCAAGCAGG 3'
+
+N=1
+3'........... 5'
+5'CCCAAGCAGGC 3'
+
+N=1
+3'........... 5'
+5'CCAAGCAGGCT 3'
+
+N=1
+3'........... 5'
+5'CAAGCAGGCTC 3'
+
+N=1
+3'........... 5'
+5'AAGCAGGCTCG 3'
+
+N=1
+3'........... 5'
+5'AGCAGGCTCGT 3'
+
+N=1
+3'........... 5'
+5'GCAGGCTCGTG 3'
+
+N=1
+3'........... 5'
+5'CAGGCTCGTGT 3'
+
+N=1
+3'........... 5'
+5'AGGCTCGTGTC 3'
+
+N=1
+3'........... 5'
+5'GGCTCGTGTCT 3'
+
+N=1
+3'........... 5'
+5'GCTCGTGTCTA 3'
+
+N=1
+3'........... 5'
+5'CTCGTGTCTAA 3'
+
+N=1
+3'........... 5'
+5'TCGTGTCTAAA 3'
+
+N=1
+3'........... 5'
+5'CGTGTCTAAAA 3'
+
+N=1
+3'........... 5'
+5'GTGTCTAAAAC 3'
+
+N=1
+3'........... 5'
+5'TGTCTAAAACC 3'
+
+N=1
+3'........... 5'
+5'GTCTAAAACCA 3'
+
+N=1
+3'........... 5'
+5'TCTAAAACCAT 3'
+
+N=1
+3'........... 5'
+5'CTAAAACCATA 3'
+
+N=1
+3'........... 5'
+5'TAAAACCATAC 3'
+
+N=1
+3'........... 5'
+5'AAAACCATACA 3'
+
+N=1
+3'........... 5'
+5'AAACCATACAT 3'
+
+N=1
+3'........... 5'
+5'AACCATACATT 3'
+
+N=1
+3'........... 5'
+5'ACCATACATTG 3'
+
+N=1
+3'........... 5'
+5'CCATACATTGC 3'
+
+N=1
+3'........... 5'
+5'CATACATTGCG 3'
+
+N=1
+3'........... 5'
+5'ATACATTGCGG 3'
+
+N=1
+3'........... 5'
+5'TACATTGCGGG 3'
+
+N=1
+3'........... 5'
+5'ACATTGCGGGA 3'
+
+N=1
+3'........... 5'
+5'CATTGCGGGAT 3'
+
+N=1
+3'........... 5'
+5'ATTGCGGGATT 3'
+
+N=1
+3'........... 5'
+5'TTGCGGGATTC 3'
+
+N=1
+3'........... 5'
+5'TGCGGGATTCC 3'
+
+N=1
+3'........... 5'
+5'GCGGGATTCCA 3'
+
+N=1
+3'........... 5'
+5'CGGGATTCCAG 3'
+
+N=1
+3'........... 5'
+5'GCAATGTATGG 3'
+
+N=1
+3'........... 5'
+5'CAATGTATGGT 3'
+
+N=1
+3'........... 5'
+5'AATGTATGGTT 3'
+
+N=1
+3'........... 5'
+5'ATGTATGGTTT 3'
+
+N=1
+3'........... 5'
+5'TGTATGGTTTT 3'
+
+N=1
+3'........... 5'
+5'GTATGGTTTTA 3'
+
+N=1
+3'........... 5'
+5'TATGGTTTTAG 3'
+
+N=1
+3'........... 5'
+5'ATGGTTTTAGA 3'
+
+N=1
+3'........... 5'
+5'TGGTTTTAGAC 3'
+
+N=1
+3'........... 5'
+5'GGTTTTAGACA 3'
+
+N=1
+3'........... 5'
+5'GTTTTAGACAC 3'
+
+N=1
+3'........... 5'
+5'TTTTAGACACG 3'
+
+N=1
+3'........... 5'
+5'TTTAGACACGA 3'
+
+N=1
+3'........... 5'
+5'TTAGACACGAG 3'
+
+N=1
+3'........... 5'
+5'TAGACACGAGC 3'
+
+N=1
+3'........... 5'
+5'AGACACGAGCC 3'
+
+N=1
+3'........... 5'
+5'GACACGAGCCT 3'
+
+N=1
+3'........... 5'
+5'ACACGAGCCTG 3'
+
+N=1
+3'........... 5'
+5'CACGAGCCTGC 3'
+
+N=1
+3'........... 5'
+5'ACGAGCCTGCT 3'
+
+N=1
+3'........... 5'
+5'CGAGCCTGCTT 3'
+
+N=1
+3'........... 5'
+5'GAGCCTGCTTG 3'
+
+N=1
+3'........... 5'
+5'AGCCTGCTTGG 3'
+
+N=1
+3'........... 5'
+5'GCCTGCTTGGG 3'
+
+N=1
+3'........... 5'
+5'CCTGCTTGGGC 3'
+
+N=1
+3'........... 5'
+5'CTGCTTGGGCG 3'
+
+N=1
+3'........... 5'
+5'TGCTTGGGCGA 3'
+
+N=1
+3'........... 5'
+5'GCTTGGGCGAT 3'
+
+N=1
+3'........... 5'
+5'CTTGGGCGATA 3'
+
+N=1
+3'........... 5'
+5'TTGGGCGATAG 3'
+
+N=1
+3'........... 5'
+5'TGGGCGATAGA 3'
+
+N=1
+3'........... 5'
+5'GGGCGATAGAC 3'
+
+N=1
+3'........... 5'
+5'GGCGATAGACA 3'
+
+N=1
+3'........... 5'
+5'GCGATAGACAC 3'
+
+N=1
+3'........... 5'
+5'CGATAGACACG 3'
+
+N=1
+3'........... 5'
+5'GATAGACACGA 3'
+
+N=1
+3'........... 5'
+5'ATAGACACGAA 3'
+
+N=1
+3'........... 5'
+5'TAGACACGAAG 3'
+
+N=1
+3'........... 5'
+5'AGACACGAAGG 3'
+
+N=1
+3'........... 5'
+5'GACACGAAGGA 3'
+
+N=1
+3'........... 5'
+5'ACACGAAGGAG 3'
+
+N=1
+3'........... 5'
+5'CACGAAGGAGT 3'
+
+N=1
+3'........... 5'
+5'ACGAAGGAGTA 3'
+
+N=1
+3'........... 5'
+5'CGAAGGAGTAA 3'
+
+N=1
+3'........... 5'
+5'GAAGGAGTAAC 3'
+
+N=1
+3'........... 5'
+5'AAGGAGTAACT 3'
+
+N=1
+3'........... 5'
+5'AGGAGTAACTG 3'
+
+N=1
+3'........... 5'
+5'GGAGTAACTGG 3'
+
+N=1
+3'........... 5'
+5'GAGTAACTGGA 3'
+
+N=1
+3'........... 5'
+5'AGTAACTGGAA 3'
+
+N=1
+3'........... 5'
+5'GTAACTGGAAT 3'
+
+N=1
+3'........... 5'
+5'TAACTGGAATC 3'
+
+N=1
+3'........... 5'
+5'AACTGGAATCC 3'
+
+N=1
+3'........... 5'
+5'ACTGGAATCCC 3'
+
+N=1
+3'........... 5'
+5'CTGGAATCCCG 3'
+
+N=1
+3'........... 5'
+5'TGGAATCCCGC 3'
+
+N=1
+3'........... 5'
+5'GGAATCCCGCA 3'
+
+N=1
+3'........... 5'
+5'GAATCCCGCAA 3'
+
+N=1
+3'........... 5'
+5'AATCCCGCAAT 3'
+
+N=1
+3'........... 5'
+5'ATCCCGCAATG 3'
+
+N=1
+3'........... 5'
+5'TCCCGCAATGT 3'
+
+N=1
+3'........... 5'
+5'CCCGCAATGTA 3'
+
+N=1
+3'........... 5'
+5'CCGCAATGTAT 3'
+
+N=1
+3'........... 5'
+5'CGCAATGTATG 3'

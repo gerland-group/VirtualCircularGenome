@@ -1,0 +1,5 @@
+l_gen: 64
+L1: 3
+L2: 4
+bias: none
+ls_oligo_V: [6,7]
